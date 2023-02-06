@@ -1,4 +1,5 @@
-![](https://github.com/MsDhanalekshmi/MsDhanalekshmi/blob/main/github-header-image.png)
+![github-header-image (1)](https://user-images.githubusercontent.com/124470741/216910941-6395fe90-8b99-4ce4-bcd7-f29ce045e104.png)
+
 <h1 align="center">Hi 👋, I'm M S Dhanalekshmi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="550" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
